@@ -55,9 +55,7 @@
   <!--- INSTAGRAM--->
   <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/gonzalezchajemilio1/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-<!--- X O TWITER--->
-  <a style="margin-left: 10px;" target="_blank" href="https://x.com/gonzalezch555">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+
 	
 
 	
